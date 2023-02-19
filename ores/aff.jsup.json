@@ -1,0 +1,15 @@
+{
+    "DisplayName":"Active for free",
+    "Namespace":"com.vochant.aff",
+    "Owner":"Vochant",
+    "EnableBefore":"true",
+    "AuthCode":"ZG05amFHRnVkQzFrWlhZ",
+    "AuthTarget":"371a349e1ed7e3e8ec62163ca94fa0e6",
+    "DisplayVersion":"1.0.0",
+    "VersionCode":"1",
+    "EnableUpgrade":"true",
+    "DisableWhenTimedOut":"true",
+    "Type":"new_window",
+    "ConfigHost":"https://ocyx.github.io/ores/aff.jsup.json",
+    "ScriptHost":"https://ocyx.github.io/ores/aff.jsup.js"
+}
